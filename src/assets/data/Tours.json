@@ -1,0 +1,60 @@
+
+[
+  {
+    "picture":"../images/nyungwe.jpg",
+    "title": "nyungwe",
+    "description": "Nyungwe National Park lies in southwest Rwanda, partly abutting the Burundi border. It's a vast area of mountain rainforest, home to many species of chimpanzees, plus owl-faced and colobus monkeys. The Canopy Walkway, part of the Igishigishigi Trail, is a high suspension bridge with views over the valley and surrounding forests. A trail runs to the Kamiranzovu Marsh, with its birdlife, orchids and waterfall",
+    "dueDate":"15-04-2030",
+    "Amount":"$200",
+    "Seat": 5,
+    "Preparedby":"Joyeuse"
+  },
+  {
+    "picture":"../images/nyungwe.jpg",
+    "title": "Akagera",
+    "description": "Nyungwe National Park lies in southwest Rwanda, partly abutting the Burundi border. It's a vast area of mountain rainforest, home to many species of chimpanzees, plus owl-faced and colobus monkeys. The Canopy Walkway, part of the Igishigishigi Trail, is a high suspension bridge with views over the valley and surrounding forests. A trail runs to the Kamiranzovu Marsh, with its birdlife, orchids and waterfall",
+    "dueDate":"15-04-2030",
+    "Amount":"$200",
+    "Seat": 5,
+    "Preparedby":"Joyeuse"
+  },
+  {
+     "picture":"../assets/images/nyungwe.jpg",
+    "title": "Gishwati",
+    "description": "Nyungwe National Park lies in southwest Rwanda, partly abutting the Burundi border. It's a vast area of mountain rainforest, home to many species of chimpanzees, plus owl-faced and colobus monkeys. The Canopy Walkway, part of the Igishigishigi Trail, is a high suspension bridge with views over the valley and surrounding forests. A trail runs to the Kamiranzovu Marsh, with its birdlife, orchids and waterfall",
+    "dueDate":"15-04-2030",
+    "Amount":"$200",
+    "Seat": 5,
+    "Preparedby":"Joyeuse"
+  },
+  {
+    "picture":"../images/slide4.jpg",
+   "title": "Miseum",
+   "description": "Nyungwe National Park lies in southwest Rwanda, partly abutting the Burundi border. It's a vast area of mountain rainforest, home to many species of chimpanzees, plus owl-faced and colobus monkeys. The Canopy Walkway, part of the Igishigishigi Trail, is a high suspension bridge with views over the valley and surrounding forests. A trail runs to the Kamiranzovu Marsh, with its birdlife, orchids and waterfall",
+   "dueDate":"15-04-2030",
+   "Amount":"$200",
+   "Seat": 5,
+   "Preparedby":"Joyeuse"
+ },
+  {
+     "picture":"../images/lakekivu.jpg",
+    "title": "lake",
+    "description": "Nyungwe National Park lies in southwest Rwanda, partly abutting the Burundi border. It's a vast area of mountain rainforest, home to many species of chimpanzees, plus owl-faced and colobus monkeys. The Canopy Walkway, part of the Igishigishigi Trail, is a high suspension bridge with views over the valley and surrounding forests. A trail runs to the Kamiranzovu Marsh, with its birdlife, orchids and waterfall",
+    "dueDate":"15-04-2030",
+    "Amount":"$200",
+    "Seat": 5,
+    "Preparedby":"Joyeuse"
+  },
+  {
+    "picture":"../images/slide4.jpg",
+   "title": "Miseum",
+   "description": "Nyungwe National Park lies in southwest Rwanda, partly abutting the Burundi border. It's a vast area of mountain rainforest, home to many species of chimpanzees, plus owl-faced and colobus monkeys. The Canopy Walkway, part of the Igishigishigi Trail, is a high suspension bridge with views over the valley and surrounding forests. A trail runs to the Kamiranzovu Marsh, with its birdlife, orchids and waterfall",
+   "dueDate":"15-04-2030",
+   "Amount":"$200",
+   "Seat": 5,
+   "Preparedby":"Joyeuse"
+ }
+]
+
+
+

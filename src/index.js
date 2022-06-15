@@ -1,17 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+//jsx is like html which help to display content in react
+//package.json: where we put all dependences we use
+//package-lock.json: version of dependences
+//gitignore: where large files which can be difficult to push on github is stored
+//Node-modules: where dependences come from
+//public: static files
+//buble: transform jsx into js (many browser does not support jsx)
+import React from 'react'
+import reactDom from 'react-dom'
+import App from './App'
+reactDom.render(<App/>,document.querySelector("#root"));
