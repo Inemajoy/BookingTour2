@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/images/logotour.jpg";
+import logo from "../assets/images/logotour.png";
 import "./navbar.css";
 const Nav=()=>{
 return(

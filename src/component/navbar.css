@@ -30,7 +30,10 @@ gap: 1.4rem;
 .nav-link{
     color:rgba(0, 128, 0, 0.807);
 }
-.nav-link:link, .nav-link:visited{
+.nav-links a:active{
+    color:"orange";
+}
+.nav-link:visited{
     font-size: 1.8rem;
     text-decoration: none;
 }

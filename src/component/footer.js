@@ -1,5 +1,5 @@
 import React from "react";
-import logofooter from "../assets/images/logotour.jpg"
+import logofooter from "../assets/images/logotour.png"
 import { FacebookOutlined,TwitterOutlined,InstagramOutlined } from "@ant-design/icons";
 import "./footer.css";
 
@@ -9,7 +9,7 @@ const Footer=()=>{
 return(
     <div className="footer-container">
         <div className="logo-column">
-            <img src={logofooter} alt="logo footer" className="logo-img"></img><br/>
+            <img src={logofooter} alt="logo footer" className="logo-img"></img><br/><br/><br/>
             <div className="icons">
                 <FacebookOutlined/>
                 <TwitterOutlined/>

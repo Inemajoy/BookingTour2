@@ -15,7 +15,7 @@ const About = () => {
         <Space direction="horizontal">
           <Image
             src={Aboutbg}
-            style={{ height: "30rem", width: "70rem", alignItems: "center" }}
+            style={{ height: "35rem", width: "70rem", alignItems: "center" }}
           />
           <div>
             <Title style={{ color: "blue", textAlign: "center" }}>
