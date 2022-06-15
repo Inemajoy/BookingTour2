@@ -20,7 +20,7 @@ body{
     width: 180px;
     object-fit: cover;
     border-radius:50% ;
-    height: 130px;
+    height: 120px;
 }
 .nav-links{
 display: flex;

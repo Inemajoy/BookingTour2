@@ -1,6 +1,4 @@
 import React from "react";
-import Footer from "../component/footer";
-import Nav from "../component/navbar";
 import s1 from "../assets/images/slide1.jpg"
 import s2 from "../assets/images/slide2.jpg"
 import s3 from "../assets/images/gollila.jpg"
