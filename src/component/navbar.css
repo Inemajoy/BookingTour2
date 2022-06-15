@@ -11,6 +11,7 @@ body{
     font-family: 'Joan', serif;
 }
 .nav{
+    background-color: rgba(255, 255, 255, 0.741);
     display: flex;
     justify-content: space-between;
     padding: 1.8rem 2.4rem;
