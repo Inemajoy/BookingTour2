@@ -11,7 +11,7 @@ body{
     font-family: 'Joan', serif;
 }
 .nav{
-    background-color: rgba(255, 255, 255, 0.741);
+    background-color: #08495764;
     display: flex;
     justify-content: space-between;
     padding: 1.8rem 2.4rem;
@@ -30,6 +30,7 @@ gap: 1.4rem;
 }
 .nav-link{
     color:rgba(0, 128, 0, 0.807);
+    font-size: 2rem;
 }
 .nav-links a:active{
     color:"orange";

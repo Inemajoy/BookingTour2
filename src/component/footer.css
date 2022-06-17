@@ -5,7 +5,7 @@
     height: 120px;
 }
 .footer-container{
-    background: #555;
+    background: rgb(39, 38, 38);
     padding:8rem;
     display: grid;
     grid-template-columns: 25% 20% 20% 20% 15%;
